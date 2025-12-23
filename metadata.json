@@ -1,0 +1,5 @@
+{
+  "name": "VietCheck AI - Kiểm tra chính tả tiếng Việt",
+  "description": "Một ứng dụng thông minh sử dụng trí tuệ nhân tạo Gemini để kiểm tra và sửa lỗi chính tả, ngữ pháp, và phong cách viết cho tiếng Việt một cách chính xác.",
+  "requestFramePermissions": []
+}
